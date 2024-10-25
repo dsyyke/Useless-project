@@ -15,9 +15,9 @@
 ### Project Description
 This project involves developing a mental health chatbot application aimed at providing users with supportive interactions and resources. Built using Flask and Python, the chatbot combines natural language processing (NLP) to understand user sentiments and respond empathetically. The application is structured with three key roles to optimize development and ensure an efficient, well-coordinated workflow.
 
-### The Problem (that doesn't exist)
+### The Problem 
 Many people feel isolated or hesitant to seek help for mental health issues.
-### The Solution (that nobody asked for)
+### The Solution 
 Create a chatbot that offers emotional support, providing positive reinforcement and guiding users to resources. It could also allow users to track their mood over time.
 
 ## Technical Details
