@@ -16,9 +16,9 @@
 This project involves developing a mental health chatbot application aimed at providing users with supportive interactions and resources. Built using Flask and Python, the chatbot combines natural language processing (NLP) to understand user sentiments and respond empathetically. The application is structured with three key roles to optimize development and ensure an efficient, well-coordinated workflow.
 
 ### The Problem 
-Many people feel isolated or hesitant to seek help for mental health issues.
+Many people feel isolated or hesitant to seek help for mental health issues. 
 ### The Solution 
-Create a chatbot that offers emotional support, providing positive reinforcement and guiding users to resources. It could also allow users to track their mood over time.
+Create a chatbot that gives people some space to talk freely.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -28,68 +28,39 @@ HTML, CSS, JavaScript (Frontend)
 - Flask (Backend framework)
 - Flask-SQLAlchemy (Database integration with Flask)
 NLTK or spaCy (NLP and sentiment analysis)
-- Database: MySQL or SQLite (for storing interactions and logs)
 Task Management: Trello or GitHub (for tracking tasks and deadlines)
-Testing: Manual and automated testing for backend, frontend, and database
+Testing: Manual for backend, frontend, and database
 
 
 
 ### Implementation
 For Software:
+NLTK (Natural Language Toolkit)
+SpaCy
+flask
 # Installation
-[commands]
+pip install 
 
 # Run
-[commands]
+python app.py
 
-### Project Documentation
-For Software:
+
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="958" alt="mhc sc" src="https://github.com/user-attachments/assets/db05f624-f8dd-4a39-bd3e-d67429a2df97">
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+the image shows our website and i shows a chat with the chatbot.
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Sruthy Babu: Flask and python 
+- Devika AD: nlp and machine learning
+- Krishnendu C: frontend css and html
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
